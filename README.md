@@ -17,7 +17,7 @@ AI-TUTOR is an interactive, personalized learning platform designed to assist ch
 
 ## Demo
 
-Live App: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+Live App: [https://your-vercel-app-url.vercel.app]([https://your-vercel-app-url.vercel.app](https://ai-tutor-puce-alpha.vercel.app/))
 
 GitHub Repository: [https://github.com/jithendra-n14/AI-TUTOR](https://github.com/jithendra-n14/AI-TUTOR)
 
