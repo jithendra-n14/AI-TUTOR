@@ -1,13 +1,5 @@
-# dependencies
 node_modules/
-dist/
 build/
-
-# config
 .env
-
-# logs
 *.log
-
-# system
 .DS_Store
