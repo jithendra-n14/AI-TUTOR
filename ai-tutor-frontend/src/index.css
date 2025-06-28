@@ -1,0 +1,101 @@
+/* General Reset and Base */
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', 'Poppins', sans-serif;
+  background-color: #f0f9ff;
+  color: #333;
+}
+
+/* App Container */
+.App {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Headings */
+h1, h2, h3 {
+  text-align: center;
+  color: #2e86de;
+  font-weight: bold;
+}
+
+/* Buttons */
+button {
+  padding: 10px 20px;
+  background-color: #ffb347;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: 'Comic Sans MS', cursive;
+  transition: transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #ffa031;
+  transform: scale(1.05);
+}
+
+/* Input & Textarea */
+input, textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 2px solid #87cefa;
+  margin: 10px 0;
+  font-family: 'Comic Sans MS', cursive;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* AI Tutor & Quiz Section */
+.ai-section, .quiz-section {
+  background-color: #ffffff;
+  padding: 25px;
+  margin: 30px 0;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.08);
+}
+
+/* Response Area */
+.response {
+  background-color: #e0f7fa;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  white-space: pre-wrap;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Quiz Output */
+.quiz-output {
+  background-color: #fff8dc;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Chart Container */
+.chart-container {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 40px auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Footer or Additional UI (optional) */
+.footer-note {
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+  margin-top: 40px;
+}
